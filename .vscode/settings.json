@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "frequency_of_the_word.h": "c",
+        "tokenizing.h": "c",
+        "article_counter.h": "c",
+        "char_counter.h": "c",
+        "count_vcd.h": "c",
+        "identifi_comment.h": "c",
+        "identifiers.h": "c",
+        "laxical_analyzer.h": "c",
+        "line_counting.h": "c",
+        "marge_string.h": "c",
+        "remove_white_space.h": "c",
+        "rev_str.h": "c",
+        "space_counter.h": "c",
+        "take_3_characters.h": "c"
+    }
+}
